@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
 # Copyright (c) ModelScope Contributors. All rights reserved.
 
 if __name__ == '__main__':
